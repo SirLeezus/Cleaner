@@ -1,0 +1,6 @@
+name: Cleaner
+main: lee.code.cleaner.Cleaner
+version: ${project.version}
+api-version: 1.19
+author: Lee
+depend: [GoldmanCore]
